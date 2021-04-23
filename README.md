@@ -21,7 +21,7 @@ Seasoned and independent Front End Developer with **3 years** of experience in b
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <!-- Twitter -->
-<a href="https://twitter.com/YoussefZidanDev" target="_blank">
+<a href="https://twitter.com/manutd_mido" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter">
 </a>
 <!-- Facebook -->
