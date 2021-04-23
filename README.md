@@ -12,10 +12,6 @@ Seasoned and independent Front End Developer with **3 years** of experience in b
 
 ## FIND ME
 
-<!-- Website -->
-<a href="https://youssefzidan.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌍 My Website -000?style=flat-square" alt="Email">
-</a>
 <!-- Gmail -->
 <a href="mailto:mohammedmahmoudabdelkarim@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
