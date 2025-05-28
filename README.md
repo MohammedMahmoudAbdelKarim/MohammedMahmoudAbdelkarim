@@ -1,34 +1,92 @@
-# HELLO <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px">
+# 👋 Hello, I'm Mohammed Mahmoud Abdel-Karim
 
-### I'm Mohammed ! :sunglasses: </br>
-
-UI / UX Developer and JavaScript Engieer :computer:.
-
-Seasoned and independent Front End Developer with **3 years** of experience in blending the art of design with skill of programming to deliver an immersive and engaging user experience through efficient website development, proactive feature optimization, and relentless debugging. Very passionate about aesthetics and UI design. :wink: 
-
-> 🏘️ Available for Freelance Projects.
+🎯 **Senior Front-End Developer | Angular Specialist | UI/UX Mentor**  
+📍 Alexandria, Egypt  
+💼 Currently at Digi Vision Technologies (STC - KSA)  
+📚 Instructor at ITI Egypt
 
 ---
 
-## FIND ME
+## 🧠 About Me
 
-<!-- Gmail -->
-<a href="mailto:mohammedmahmoudabdelkarim@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
-</a>
-<!-- Linked in -->
-<a href="https://www.linkedin.com/in/mohammedmahmoudabdelkarim/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<!-- Twitter -->
-<a href="https://twitter.com/manutd_mido" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter">
-</a>
-<!-- Facebook -->
-<a href="https://www.facebook.com/mido.mahmoud.9862" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=facebook&logoColor=white" alt="Facebook">
-</a>
+I'm a passionate and independent Front-End Developer with years of experience blending design and development to craft immersive, responsive, and efficient web applications.
 
-## Thing I Can Code With
+With a strong focus on Angular and modern JavaScript ecosystems, I build performance-optimized UIs while mentoring the next generation of developers at ITI. I’m also a digital artist, tech blogger, and gamer at heart.
 
-<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img alt="css" src="https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white" /> <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" /> <img alt="BootStrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white" /> <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" /> <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" /> <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" /> <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /> <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" /> <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /> <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+---
+
+## 🔧 Tech Toolbox
+
+**Frontend:**  
+HTML5, CSS3, Bootstrap, SASS, JavaScript (ES6+), TypeScript, Angular (v2+), Angular Material, ReactJS, VueJS, NGXS, NGRX, RxJS, GraphQL
+
+**Backend / APIs:**  
+Node.js (Basic), PHP (Basic), RESTful APIs, Firebase, MySQL
+
+**Tools & Practices:**  
+Git, Unit Testing, Responsive Design, Agile, OOP, Algorithms, State Management (NGXS, NGRX)
+
+---
+
+## 💼 Professional Experience
+
+**Senior Front-End Developer**  
+*Digi Vision Technologies (STC – KSA)*  
+📅 Nov 2021 – Present  
+- Built and maintained internal enterprise systems for STC using Angular.
+- Mentored team members and promoted clean code and best practices.
+- Reviewed code and shared knowledge across teams.
+
+**Front-End Instructor**  
+*Information Technology Institute (ITI)*  
+📅 Feb 2021 – Present  
+- Delivered engaging, hands-on sessions on front-end technologies.
+- Guided students on real-world projects and helped them debug effectively.
+- Focused on industry standards and best practices.
+
+**Front-End Developer**  
+*AHBS, FlairsTech*  
+📅 2019 – 2021  
+- Developed web interfaces from UI designs using Angular.
+- Used Git for version control and team collaboration.
+- Focused on performance, responsiveness, and consistency.
+
+---
+
+## 🚀 Notable Projects
+
+- **Gamarise**: Angular-based tournament platform (TrianglZ LLC)
+- **Announcement**: Real-time Angular web app with Firebase (Caduceus Lane)
+- **Zero-Gaming**: E-commerce Angular app with online payment
+- **UpKeep**: Technical service platform in KSA
+- **New-Traquias**: CRM system for jewelry management
+- **6 October Academy**: University portal with Angular
+- **Bookarage**: Car maintenance web dashboard (ReactJS + Angular)
+
+---
+
+## 🖋️ Interests
+
+- 🎨 **Digital Art** – Featured on [DeviantArt](https://www.deviantart.com/themagicalmammal)
+- 🕹️ **Gaming** – Mobile & Nintendo Switch fan
+- 📘 **Technical Writing** – Blog on [Medium](https://medium.com/@d19cyber) & [GitHub](https://github.com/themagicalmammal/howtodebuntu)
+
+---
+
+## 📫 Connect with Me
+
+📧 [mohammedmahmoudabdelkarim@gmail.com](mailto:mohammedmahmoudabdelkarim@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/mohammedmahmoudabdelkarim/)  
+💻 [GitHub](https://github.com/MohammedMahmoudAbdelKarim)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammedMahmoudAbdelKarim&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedMahmoudAbdelKarim&layout=compact&theme=tokyonight)
+
+---
+
+> *“First, solve the problem. Then, write the code.” – John Johnson*
